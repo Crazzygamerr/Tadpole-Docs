@@ -1,8 +1,3 @@
- Asteroids NeoWs
-===============
-
-Aa
-
 Asteroids - NeoWs
 -----------------
 
@@ -50,6 +45,5 @@ Browse the overall Asteroid data-set `GET` [`https://api.nasa.gov/neo/rest/v1/ne
 
  [](https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY) [`https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY`](https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY)
 
-﻿  
 
 [View complete documentation](https://www.postman.com/miguelolave/documentation/3419756-7fff885d-e119-419f-bcd7-7fcaae4c2ab7)
